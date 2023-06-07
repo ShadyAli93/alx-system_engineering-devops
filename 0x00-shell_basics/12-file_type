@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp | grep iamafile
+find /tmp/iamafile 
