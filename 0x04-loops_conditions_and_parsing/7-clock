@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Bash script that displays numbers from 1 to 20
 h=0
-while [ $ -le 12 ]
+while [ $h -le 12 ]
 do
 echo "$h"
 m=1
