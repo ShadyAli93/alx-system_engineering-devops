@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#apache log
+f="apache-access.log"
+awk -F' ' '{ print $1, $9}' $f
